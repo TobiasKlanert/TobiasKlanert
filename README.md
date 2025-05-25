@@ -100,9 +100,7 @@
   🎲 Fun fact: I've installed more VS Code Extensions than I would
   like to admit.<br />
   
-  🚀 What I'm looking for:<br />
-  I'm on the lookout for teams where curiosity is celebrated, clean code matters, and learning never stops.
-  If you're building something exciting and need a developer who loves both code and coffee — let's connect!
+  🚀 What I'm looking for: I'm on the lookout for teams where curiosity is celebrated, clean code matters, and learning never stops. If you're building something exciting and need a developer who loves both code and coffee — let's connect!
 </p>
 
 ###

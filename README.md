@@ -59,10 +59,11 @@
 
 ###
 
-<div align="space-between">
+<div align="center">
   <img
     src="https://streak-stats.demolab.com?user=TobiasKlanert&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3"
     height="150"
+    style="margin-right: 24px;"
     alt="streak graph"
   />
   <img

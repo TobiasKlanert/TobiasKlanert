@@ -80,8 +80,11 @@
 
 <p align="left">
   🪳 Creating bugs since 2024 — and fixing most of them!<br />
+  
   🧙🏻‍♂️ Wizzard in googling error messages, debugging at 2am, and occasionally making magic happen with JavaScript.<br />
+  
   👨🏻‍🎓 Currently diving deep into Angular and building real-world projects to sharpen my frontend skills.<br />
+  
   📎 Ask me about:<br />
   <ul>
     <li>Turning spaghetti code into readable pasta</li>
@@ -92,7 +95,9 @@
   
   🎯 My goals:
   Leveling up from bug wizard apprentice to senior dev — one thoughtful commit
-  at a time.<br />Fun fact: I've installed more VS Code Extensions than I would
+  at a time.<br />
+  
+  🎲 Fun fact: I've installed more VS Code Extensions than I would
   like to admit.<br />
   
   🚀 What I'm looking for:<br />

@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="48"
@@ -59,7 +59,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img
     src="https://streak-stats.demolab.com?user=TobiasKlanert&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3"
     height="150"

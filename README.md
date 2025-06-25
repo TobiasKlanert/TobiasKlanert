@@ -4,7 +4,7 @@
 
 <p align="left">
   📌 I'm a software developer from Saxony-Anhalt.<br />👉 Check my projects
-  here: https://tobias-klanert.de/
+  here: <a href="https://tobias-klanert.de/" target="_blank">https://tobias-klanert.de/</a>
 </p>
 
 ###

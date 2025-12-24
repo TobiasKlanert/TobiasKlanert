@@ -130,11 +130,3 @@
 </div>
 
 ###
-
-<h2 align="left">Snake!</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/TobiasKlanert/TobiasKlanert/output/snake.svg" alt="Snake animation" />
-
-###

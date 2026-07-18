@@ -66,21 +66,6 @@ More on my portfolio: **[tobias-klanert.de](https://tobias-klanert.de/)**
 - Getting stronger at automated testing and clean API design
 - CI/CD with GitHub Actions
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TobiasKlanert&show_icons=true&theme=react&hide_border=false&border_radius=5&card_width=380" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobiasKlanert&layout=compact&langs_count=6&theme=react&hide_border=false&card_width=320" height="150" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TobiasKlanert&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="Contribution streak" />
-</div>
-
----
-
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@tobias-klanert.de)

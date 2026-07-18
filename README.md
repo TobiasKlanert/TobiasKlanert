@@ -4,7 +4,7 @@
 
 ### Hi, I'm Tobias 👋
 
-I'm a **certified IT specialist (Fachinformatiker Systemintegration)** with 10+ years as a system administrator — now building web applications full time. Since mid-2024 I've been developing full-stack projects with **Angular/TypeScript** on the frontend and **Django / Django REST Framework** on the backend, and I deploy and operate them myself on my own Linux VPS.
+I'm a **certified IT specialist (Fachinformatiker Systemintegration)** with 10+ years as a system administrator — now building web applications. Since mid-2024 I've been developing full-stack projects with **Angular/TypeScript** on the frontend and **Django / Django REST Framework** on the backend, and I deploy and operate them myself on my own Linux VPS.
 
 That combination is my angle: I don't just write the app, I ship it, containerize it, put a reverse proxy in front of it and keep it running.
 

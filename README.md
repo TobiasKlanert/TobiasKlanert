@@ -1,132 +1,90 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Tobias%20Klanert&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=60dafb"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Tobias%20Klanert&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Angular%20%C2%B7%20TypeScript%20%C2%B7%20Django%20%C2%B7%20Docker&descSize=16&descAlign=50&descAlignY=70&animation=fadeIn&color=60dafb" />
 </div>
 
-###
+### Hi, I'm Tobias 👋
 
-<h1 align="left">Hello World!! I am Tobias 👋</h1>
+I'm a **certified IT specialist (Fachinformatiker Systemintegration)** with 10+ years as a system administrator — now building web applications full time. Since mid-2024 I've been developing full-stack projects with **Angular/TypeScript** on the frontend and **Django / Django REST Framework** on the backend, and I deploy and operate them myself on my own Linux VPS.
 
-###
+That combination is my angle: I don't just write the app, I ship it, containerize it, put a reverse proxy in front of it and keep it running.
 
-<p align="left">I’m a trained IT specialist with a background in system integration and over 10 years of experience as an IT system administrator. Along the way, I discovered my passion for software development. Since mid-2024, I’ve been diving deep into both frontend and backend development, continuously learning and building new projects. I enjoy tackling real-world problems, exploring modern technologies, and growing my skills step by step. Always excited to connect and collaborate!</p>
+📍 Saxony-Anhalt, Germany · 🌐 [tobias-klanert.de](https://tobias-klanert.de/) · 🗣️ German (native), English (professional)
+🔎 **Open to Junior Full-Stack / Web Developer roles** (remote or hybrid)
 
-###
+---
 
-<p align="left">👉 Check my projects here: <a href="https://tobias-klanert.de/" target="_blank">https://tobias-klanert.de/</a></p>
+## 🛠 Tech Stack
 
-###
+**Frontend**
 
-<h2 align="left">Tech Stack</h2>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-###
+**Backend**
 
-<h3 align="left">Frontend</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-###
+**DevOps & Tools**
 
-<div align="left">
-  <img src="./assets/HTML.png" height="40" alt="HTML5 Logo"  />
-  <img width="12" />
-  <img src="./assets/CSS.png" height="40" alt="CSS3 Logo"  />
-  <img width="12" />
-  <img src="./assets/Js.png" height="40" alt="JavaScript Logo"  />
-  <img width="12" />
-  <img src="./assets/Ts.png" height="40" alt="TypeScript Logo"  />
-  <img width="12" />
-  <img src="./assets/Angular.png" height="40" alt="Angular Logo"  />
-  <img width="12" />
-  <img src="./assets/Firebase.png" height="40" alt="Firebase Logo"  />
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-###
+---
 
-<h3 align="left">Backend</h3>
+## 🚀 Selected Projects
 
-###
+| Project | What it does | Stack |
+|---|---|---|
+| **[StackGraph](https://github.com/TobiasKlanert/stackgraph)** | Turns a `docker-compose.yml` into an interactive service graph — containers, networks, volumes, dependencies, exposed ports. Frontend-only, with YAML parsing, auto layout and SVG export. | Angular · TypeScript |
+| **[TalkCore](https://github.com/TobiasKlanert/talkcore)** | Full-stack chat application with a REST API backend and an Angular SPA frontend. | Django · DRF · Angular |
+| **[Videoflix](https://github.com/TobiasKlanert/Videoflix-Backend)** | Video streaming backend: user auth, video management and HLS streaming, orchestrated with Docker Compose. | Django · PostgreSQL · Redis · Docker |
+| **[Quizly](https://github.com/TobiasKlanert/Quizly-Backend)** | Generates multiple-choice quizzes from YouTube videos via Whisper transcription and the Gemini API. | Django · Whisper · Gemini API |
+| **[Coderr](https://github.com/TobiasKlanert/Coderr-Backend)** | Multi-tenant marketplace backend connecting customers with business partners. | Django · DRF |
 
-<div align="left">
-  <img src="./assets/Rest-Api.png" height="40" alt="REST-API Logo"  />
-  <img width="12" />
-  <img src="./assets/Python.png" height="40" alt="Python Logo"  />
-  <img width="12" />
-  <img src="./assets/Django.png" height="40" alt="Django Logo"  />
-  <img width="12" />
-  <img src="./assets/DRF.png" height="40" alt="DRF Logo"  />
-</div>
+More on my portfolio: **[tobias-klanert.de](https://tobias-klanert.de/)**
 
-###
+---
 
-<h3 align="left">Dev-Tools</h3>
+## 🔭 Currently working on
 
-###
+- Building and shipping real-world full-stack apps (Angular + Django REST)
+- Self-hosting my own infrastructure: Docker, Caddy reverse proxy, PostgreSQL, n8n automations, backups
+- Getting stronger at automated testing and clean API design
+- CI/CD with GitHub Actions
 
-<div align="left">
-  <img src="./assets/Git.png" height="40" alt="Git Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="./assets/Linux.png" height="40" alt="Linux Logo"  />
-  <img width="12" />
-  <img src="./assets/Docker.png" height="40" alt="Docker Logo"  />
-  <img width="12" />
-  <img src="./assets/Scrum.png" height="40" alt="Scrum Logo"  />
-</div>
+---
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TobiasKlanert&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobiasKlanert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TobiasKlanert&show_icons=true&theme=react&hide_border=false&border_radius=5&card_width=380" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobiasKlanert&layout=compact&langs_count=6&theme=react&hide_border=false&card_width=320" height="150" alt="Top languages" />
 </div>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💼 10+ years as an IT system administrator<br>💻 Currently shifting into software development<br>🔧 Passionate about problem-solving, clean architecture, and automation<br>🎯 Learning full-stack development since mid-2024<br>🤝 Open to collaboration and new challenges</p>
-
-###
-
-<h2 align="left">What I'm Currently Working On</h2>
-
-###
-
-<p align="left">
-  <ul>
-    <li>Building real-world full-stack applications</li>
-    <li>Expanding my knowledge in Django/DRF and Angular</li>
-    <li>Improving my testing and API design skills</li>
-    <li>Exploring DevOps topics</li>
-  </ul>
-</p>
-
-###
-
-<h2 align="left">Fun Fact</h2>
-
-###
-
-<p align="left">I get strangely excited about tidy folder structures.</p>
-
-###
-
-<h2 align="left">How to reach me</h2>
-
-###
-
-<div align="left">
-  <a href="mailto:tobias.klanert@t-online.de" target="_blank">
-    <img src="./assets/mail.png" width="32" height="32" alt="Mail Logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tobias-klanert-80563731a/" target="_blank">
-    <img src="./assets/linkedin.png" width="32" height="32" alt="LinkedIn Logo"  />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TobiasKlanert&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="Contribution streak" />
 </div>
 
-###
+---
+
+## 📫 Get in touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@tobias-klanert.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-klanert-80563731a/)
+[![Website](https://img.shields.io/badge/Portfolio-60dafb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tobias-klanert.de/)
+
+<sub>Fun fact: I get strangely excited about tidy folder structures — which is probably why my repos and my server both look the way they do.</sub>

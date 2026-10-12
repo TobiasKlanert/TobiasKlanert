@@ -50,7 +50,6 @@ That combination is my angle: I don't just write the app, I ship it, containeriz
 | Project | What it does | Stack |
 |---|---|---|
 | **[StackGraph](https://github.com/TobiasKlanert/stackgraph)** | Turns a `docker-compose.yml` into an interactive service graph — containers, networks, volumes, dependencies, exposed ports. Frontend-only, with YAML parsing, auto layout and SVG export. | Angular · TypeScript |
-| **[TalkCore](https://github.com/TobiasKlanert/talkcore)** | Full-stack chat application with a REST API backend and an Angular SPA frontend. | Django · DRF · Angular |
 | **[Videoflix](https://github.com/TobiasKlanert/Videoflix-Backend)** | Video streaming backend: user auth, video management and HLS streaming, orchestrated with Docker Compose. | Django · PostgreSQL · Redis · Docker |
 | **[Quizly](https://github.com/TobiasKlanert/Quizly-Backend)** | Generates multiple-choice quizzes from YouTube videos via Whisper transcription and the Gemini API. | Django · Whisper · Gemini API |
 | **[Coderr](https://github.com/TobiasKlanert/Coderr-Backend)** | Multi-tenant marketplace backend connecting customers with business partners. | Django · DRF |

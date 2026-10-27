@@ -28,8 +28,8 @@ Turns a `docker-compose.yml` into an interactive graph of your stack: containers
 |---|---|---|
 | **Videoflix**<br>[Code](https://github.com/TobiasKlanert/Videoflix-Backend) | Video streaming backend with HLS conversion via ffmpeg as background jobs. Four containers: Django with Gunicorn, RQ worker, PostgreSQL, Redis.<br><sub>Django · RQ · PostgreSQL · Redis · ffmpeg · Docker Compose</sub> | Course project. Frontend provided by Developer Akademie, backend and operations by me. |
 | **Coderr**<br>[Code](https://github.com/TobiasKlanert/Coderr-Backend) | Marketplace backend connecting customers with business partners: REST API with roles, permissions and domain rules.<br><sub>Django · Django REST Framework</sub> | Course project. Frontend provided by Developer Akademie, backend and operations by me. |
-| **Join**<br>[Live](https://join.tobias-klanert.de) · [Code](https://github.com/TobiasKlanert/JOIN-REPO-NAME) | Task management app with a drag-and-drop board.<br><sub>JavaScript · Firebase</sub> | Team project (3 people), design by Developer Akademie. I coordinated the team, built the Firebase integration, login and registration and the drag-and-drop board, and helped with bug fixes. |
-| **Sharkie**<br>[Live](https://sharkie.tobias-klanert.de) · [Code](https://github.com/TobiasKlanert/SHARKIE-REPO-NAME) | 2D browser game.<br><sub>Vanilla JavaScript · OOP</sub> | Course project. Graphics by Developer Akademie, sounds from Freesound.org. |
+| **Join**<br>[Live](https://join.tobias-klanert.de) · [Code](https://github.com/TobiasKlanert/Join) | Task management app with a drag-and-drop board.<br><sub>JavaScript · Firebase</sub> | Team project (3 people), design by Developer Akademie. I coordinated the team, built the Firebase integration, login and registration and the drag-and-drop board, and helped with bug fixes. |
+| **Sharkie**<br>[Live](https://sharkie.tobias-klanert.de) · [Code](https://github.com/TobiasKlanert/Sharkie) | 2D browser game.<br><sub>Vanilla JavaScript · OOP</sub> | Course project. Graphics by Developer Akademie, sounds from Freesound.org. |
  
 ## How I ship
  
